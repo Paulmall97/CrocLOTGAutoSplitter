@@ -4,6 +4,8 @@ AutoSplitter for Croc: Legend of the Gobbos on PC. Add to Livesplit through a "S
 
 ## Version History ##
 
+### V0.3 ###
+Load Removal by hdc0 works for most versions. Splitting also works for most versions.
 
 ### V0.2 ###
 Only supports the unpatched 1.0 release of the game.
